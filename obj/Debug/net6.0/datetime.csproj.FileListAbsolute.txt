@@ -1,0 +1,15 @@
+C:\Users\OSMAN\datetime\obj\Debug\net6.0\datetime.csproj.AssemblyReference.cache
+C:\Users\OSMAN\datetime\obj\Debug\net6.0\datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\datetime\obj\Debug\net6.0\datetime.AssemblyInfoInputs.cache
+C:\Users\OSMAN\datetime\obj\Debug\net6.0\datetime.AssemblyInfo.cs
+C:\Users\OSMAN\datetime\obj\Debug\net6.0\datetime.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\datetime\bin\Debug\net6.0\datetime.exe
+C:\Users\OSMAN\datetime\bin\Debug\net6.0\datetime.deps.json
+C:\Users\OSMAN\datetime\bin\Debug\net6.0\datetime.runtimeconfig.json
+C:\Users\OSMAN\datetime\bin\Debug\net6.0\datetime.dll
+C:\Users\OSMAN\datetime\bin\Debug\net6.0\datetime.pdb
+C:\Users\OSMAN\datetime\obj\Debug\net6.0\datetime.dll
+C:\Users\OSMAN\datetime\obj\Debug\net6.0\refint\datetime.dll
+C:\Users\OSMAN\datetime\obj\Debug\net6.0\datetime.pdb
+C:\Users\OSMAN\datetime\obj\Debug\net6.0\datetime.genruntimeconfig.cache
+C:\Users\OSMAN\datetime\obj\Debug\net6.0\ref\datetime.dll
